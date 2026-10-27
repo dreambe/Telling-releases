@@ -72,14 +72,14 @@ AI 的判断可能有误。待办和知识可编辑，也可以查看引用的�
 
 ## 下载
 
-当前版本：**1.0.7**。安装包已完成 Developer ID 签名、Apple 公证及票据装订。
+当前版本：**1.0.8**。安装包已完成 Developer ID 签名、Apple 公证及票据装订。
 
-本次精简设置和提示文案，改进历史日历与待办操作反馈。分析时，右上角趋势图标沿线显示红色动效；完成提示短暂显示后自动收起。自动分析统一在分析设置页开启，手动分析仍先预览确认。
+本次修复岛台后台 CPU 占用偏高：没有输入时保持静态，实际打字时保留书写反馈，展开与收起动效照常。已完成本机修复前后对照及待机动画回归检查。
 
 | 你的 Mac | 下载 |
 |---|---|
-| Apple Silicon：M1、M2、M3、M4 等 | [下载 Apple Silicon 安装包](https://github.com/dreambe/Telling-releases/releases/download/v1.0.7/Telling-1.0.7-arm64.dmg) |
-| Intel 处理器 | [下载 Intel 安装包](https://github.com/dreambe/Telling-releases/releases/download/v1.0.7/Telling-1.0.7-x64.dmg) |
+| Apple Silicon：M1、M2、M3、M4 等 | [下载 Apple Silicon 安装包](https://github.com/dreambe/Telling-releases/releases/download/v1.0.8/Telling-1.0.8-arm64.dmg) |
+| Intel 处理器 | [下载 Intel 安装包](https://github.com/dreambe/Telling-releases/releases/download/v1.0.8/Telling-1.0.8-x64.dmg) |
 
 需要 **macOS 12 或更新版本**。不确定芯片类型，可在苹果菜单 →「关于本机」查看。仍使用 macOS 11 的用户请保留兼容的旧版本，不要安装当前版本。
 
